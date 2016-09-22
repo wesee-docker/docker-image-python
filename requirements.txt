@@ -1,4 +1,3 @@
 dlib
-skimage
+scikit-image
 matplotlib
-numpy
