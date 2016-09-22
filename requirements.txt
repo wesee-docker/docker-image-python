@@ -1,3 +1,4 @@
 dlib
 scikit-image
 matplotlib
+scipy
